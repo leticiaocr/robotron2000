@@ -1,2 +1,2 @@
 # robotron2000
-Projeto desenvolvido durante o curso manipulando o DOM
+Projeto feito para praticar o JavaScript
